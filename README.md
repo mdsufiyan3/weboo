@@ -1,4 +1,2 @@
 
-# weboo
-
-Initial repository setup
+# hasu
